@@ -1,0 +1,2 @@
+// remove grid
+setBlocksEditorGrid(undefined)
